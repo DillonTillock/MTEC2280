@@ -1,2 +1,2 @@
 Repository for Dillon Tillock
-MTEC 2280 physical Computing ins and outs
+MTEC 2280 physical Computing Ins and outs
